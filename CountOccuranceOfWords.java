@@ -18,18 +18,5 @@ public class CountOccuranceOfWords {
 
     }
         System.out.println(map);
-//    public static HashMap<String,Integer>Occurance(String str){
-//        HashMap<String,Integer> map = new HashMap<>();
-//        int count = 1;
-//        String[]arr = str.split(" ");
-//        for(int i=0; i<arr.length;i++){
-//            if(!map.containsKey(arr[i])){
-//                map.put(arr[i],count);
-//            }
-//            else{
-//                map.put(arr[i],map.get(arr[i])+1);
-//            }
-//        }
-//        return map;
     }
 }
